@@ -1,0 +1,2 @@
+lenguaje = "nodejs"
+run = "npm run dev"
